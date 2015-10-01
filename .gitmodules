@@ -1,0 +1,12 @@
+[submodule "open-dis-cpp"]
+	path = open-dis-cpp
+	url = https://github.com/mcgredonps/open-dis-cpp.git
+[submodule "open-dis-java"]
+	path = open-dis-java
+	url = https://github.com/mcgredonps/open-dis-java.git
+[submodule "open-dis-objective-c"]
+	path = open-dis-objective-c
+	url = https://github.com/mcgredonps/open-dis-objective-c.git
+[submodule "open-dis-csharp"]
+	path = open-dis-csharp
+	url = https://github.com/mcgredonps/open-dis-csharp.git
