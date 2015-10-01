@@ -10,3 +10,6 @@
 [submodule "open-dis-csharp"]
 	path = open-dis-csharp
 	url = https://github.com/mcgredonps/open-dis-csharp.git
+[submodule "open-dis-python"]
+	path = open-dis-python
+	url = https://github.com/mcgredonps/open-dis-python.git
