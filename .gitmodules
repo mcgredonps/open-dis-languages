@@ -13,6 +13,3 @@
 [submodule "open-dis-javascript"]
 	path = open-dis-javascript
 	url = https://github.com/mcgredonps/open-dis-javascript.git
-[submodule "open-dis-python"]
-	path = open-dis-python
-	url = https://github.com/mcgredonps/open-dis-python.git
