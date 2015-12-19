@@ -14,10 +14,10 @@ automatically in more recent versions of git.
 
 ## Language Implementations
 
-open-dis-csharp [https://github.com/mcgredonps/open-dis-csharp]
-open-dis-objective-c [https://github.com/mcgredonps/open-dis-objective-c]
-open-dis-java [https://github.com/mcgredonps/open-dis-java]
-open-dis-python [https://github.com/mcgredonps/open-dis-python]
-open-dis-cpp [https://github.com/mcgredonps/open-dis-cpp]
-open-dis-javascript [https://github.com/mcgredonps/open-dis-javascript]
+open-dis-csharp [https://github.com/mcgredonps/open-dis-csharp]  
+open-dis-objective-c [https://github.com/mcgredonps/open-dis-objective-c]  
+open-dis-java [https://github.com/mcgredonps/open-dis-java]  
+open-dis-python [https://github.com/mcgredonps/open-dis-python]  
+open-dis-cpp [https://github.com/mcgredonps/open-dis-cpp]  
+open-dis-javascript [https://github.com/mcgredonps/open-dis-javascript]  
 
